@@ -59,12 +59,8 @@ I enjoy transforming ideas into working software, learning new technologies, imp
 🎯 Goal: Become a stronger software engineer through consistent building and learning
 
 💡 Developer Mindset
-<div align="center">
 Learn → Build → Break → Debug → Improve → Repeat
-
 Building software one commit at a time.
-
-</div>
 
 ⚡ Fun Developer Facts
 💡 I enjoy turning ideas into real software.
@@ -81,7 +77,6 @@ Focus       : Software Development
 Interests   : Algorithms, Open Source, Problem Solving
 Current Goal: Build stronger real-world software projects
 
-<div align="center">
 ⭐ Thanks for Visiting!
 
 If you find one of my projects useful or interesting, consider leaving a Star ⭐.
