@@ -6,19 +6,6 @@
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0969DA,100:58A6FF&height=220&section=header&text=Mohammad%20Shakir&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Engineer%20%7C%20Software%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18"/>
-
-<a href="https://github.com/Shakir798">
-  <img src="https://komarev.com/ghpvc/?username=Shakir798&label=Profile%20Views&color=0969da&style=for-the-badge" />
-</a>
-
-<a href="https://github.com/Shakir798?tab=followers">
-  <img src="https://img.shields.io/github/followers/Shakir798?label=Followers&style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://github.com/Shakir798?tab=repositories">
-  <img src="https://img.shields.io/badge/Public%20Repositories-Explore-238636?style=for-the-badge&logo=github" />
-</a>
-
 </div>
 
 ---
